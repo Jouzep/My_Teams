@@ -8,10 +8,10 @@ Server save every date into a file
 The following pages describe all the details and constraints.
 
 <h2>Usages :</h2>
-    ./zappy_server –help
+    ./My_teams –h
 <h2>Contributors and Task assignment:</h2>
 
 
-- [Jouzep](https://github.com/Jouzep) - **Graphical**
-- [BRENNS](https://github.com/BRENNS) - **Ai**
-- [Zirn0x](https://github.com/Zirn0X) - **Ai**
+- [Jouzep](https://github.com/Jouzep) - **Communication Protocol**
+- [BRENNS](https://github.com/BRENNS) - **User Input/Output**
+- [Zirn0x](https://github.com/Zirn0X) - **Data Base**
